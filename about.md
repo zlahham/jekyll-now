@@ -8,6 +8,13 @@ I am a junior software developer looking to carve out a career for myself in thi
 
 My varied experience, both academic and non-academic have made me highly adaptable and a quick learner that keenly tackles new challenges and opportunities.
 
+### Portfolio
+
+If you would like to see some of my work, please visit my [Github](https://github.com/zlahham)
+
+### Resume
+For a copy of my Resume, please find it [here](../images/resume.pdf)
+
 ### Contact me
 
 [Email](mailto:zlahham@outlook.com)
